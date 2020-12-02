@@ -1,0 +1,49 @@
+.start {
+  padding-left: 150px;
+  padding-right: 190px;
+  font-size: 12px;
+  height: 30px;
+  padding-top: 5px;
+  background-color: darkblue;
+  text-align: right !important;
+  color: white;
+  align-items: center;
+}
+.border-right {
+  padding-right: 10px;
+  border-right: 1px solid white;
+}
+.usa {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 17px;
+  color: #cc3300;
+}
+.chev {
+  font-size: 8px;
+}
+.head-navbar {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.header {
+  background-color: #f3e6ff;
+  padding-left: 150px;
+  padding-right: 150px;
+  height: 100px;
+  justify-content: center;
+}
+.border-bottom {
+  border-bottom: 1px solid grey;
+  height: 130px;
+}
+.product-image {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.footer {
+  padding-left: 150px;
+  padding-right: 150px;
+  background-color: #f3e6ff;
+  height: 80px;
+}

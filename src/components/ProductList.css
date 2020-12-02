@@ -1,0 +1,40 @@
+.virtual-heading {
+  padding-top: 30px;
+  font-size: 25px;
+  color: #000066;
+  font-weight: 400;
+}
+.virtual-desc {
+  color: grey;
+  font-size: 12px;
+  padding-top: 20px;
+}
+.all {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.down {
+  padding-left: 65px !important;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.product-img {
+  border-radius: 10px/30px;
+}
+.product-img:hover {
+  border: 2px solid #cc80ff;
+  padding: 5px;
+}
+.check {
+  display: none;
+}
+.pro {
+  width: 144px;
+}
+.pro:hover .check {
+  display: block;
+  position: absolute;
+  margin-top: -163px;
+  margin-left: 128px;
+  color: #4d0099;
+}

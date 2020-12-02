@@ -1,0 +1,44 @@
+a {
+  font-size: 12px;
+  color: darkblue !important;
+}
+b.border-right {
+  padding-right: 12px;
+  border-right: 2px solid darkblue !important;
+}
+.navbar {
+  padding: 0px !important;
+}
+.navbar-brand {
+  font-size: 12px !important;
+  padding: 0px !important;
+}
+.logo {
+  width: 177px;
+  height: 63px;
+}
+.navbar {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.justify-content-end {
+  padding-right: 38px;
+}
+.register.btn-secondary {
+  font-size: 12px !important;
+  width: 90px;
+  height: 31px;
+  padding-top: 4px;
+  color: #4d0099 !important;
+  border: 2px solid #4d0099 !important;
+  background-color: white !important;
+}
+.login.btn-secondary {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  background-color: #4d0099 !important;
+  border-color: #4d0099 !important;
+  color: white;
+  width: 70px;
+  font-size: 12px !important;
+}
